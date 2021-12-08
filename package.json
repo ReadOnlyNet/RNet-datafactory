@@ -1,0 +1,28 @@
+{
+  "name": "@rnet.cf/datafactory",
+  "version": "1.4.3",
+  "homepage": "https://github.com/ReadOnlyNet/RNet-datafactory",
+  "author": {
+    "name": "ROMVoid95",
+    "email": "romvoid95@readonlydev.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReadOnlyNet/RNet-datafactory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ReadOnlyNet/RNet-datafactory/issues"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "moment": "^2.17.0",
+    "mongoose": "^5.0.2",
+    "mongoose-long": "^0.2.0",
+    "winston": "^2.2.0",
+    "winston-sentry": "^0.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.5.0"
+  }
+}
